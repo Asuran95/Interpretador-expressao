@@ -1,7 +1,6 @@
-<h4>Trabalho apresentado na disciplina de Construção de interpretadores.</h4>
+##Interpretador de funções matematicas basicas
 
-<b>Interpretador de funções matematicas basicas</b>
-  <br>
-<p>Entrada: ""(( 8 2 /) (3 2 +) (2 ( 1 1 +) +) +)"
-<p>Saida: 13
+Exemplo:
+ * Entrada: "(( 8 2 /) (3 2 +) (2 ( 1 1 +) +) +)"
+ * Saida: 13
 
